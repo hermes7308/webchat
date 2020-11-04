@@ -1,7 +1,7 @@
 # WebChat
 WebChat is messenger using web socket.
 
-![WebChat](data/webchat-working-capture2.png)
+![WebChat](data/webchat-working-capture.png)
 
 # Tech
 * frontend
